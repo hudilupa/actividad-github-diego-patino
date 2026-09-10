@@ -1,0 +1,6 @@
+Alumno:Diego Patiño Ramírez
+9/SEP/2026
+El objetivo(creo) consiste en aprender a usar Git y sus multiples usos
+Y un Pull Request o abreviado como "PR" (wtf como mis apellidos) es una forma de avisar
+que ya terminaste los cambios en tu rama y si todo esta en buen estado poder agregarlo
+a la rama principal
